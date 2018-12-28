@@ -1,0 +1,94 @@
+{
+            "Customer": [
+            {
+                "compId": "D1234",
+                "compName": "Dell",
+                "compAddr": "155 Gordon Bakor Rd",
+                "compContact": "Mike Baylor",
+                "compPhone": "416-555-6678",
+                "compEmail": "baylor@dell.ca",
+                "invNum": ["Inv01","Inv02", "Inv03"]
+            },
+              {
+                "compId": "A1234",
+                "compName": "Apple",
+                "compAddr": "100 City Centre Dr",
+                "compContact": "Stephanie Jenkins",
+                "compPhone": "416-124-6527",
+                "compEmail": "steph@apple.ca",
+                "invNum": ["Inv04","Inv05", "Inv06","Inv31"]
+              },
+               {
+                "compId": "PC295",
+                "compName": "PC House",
+                "compAddr": "2400 Yonge St",
+                "compContact": "Arthur Reed",
+                "compPhone": "905-746-9182",
+                "compEmail": "arthur@pchouse.com",
+                "invNum": ["Inv07","Inv08", "Inv09"]
+               },
+                {
+                "compId": "MS248",
+                "compName": "Microsoft",
+                "compAddr": "1950 Meadowvale Blvd",
+                "compContact": "Gene Tenorlas",
+                "compPhone": "905-568-0434",
+                "compEmail": "tenorlas@microsoft.ca",
+                "invNum": ["Inv10","Inv11", "Inv12"]
+                },
+                {
+                "compId": "CH248",
+                "compName": "Computer Heaven",
+                "compAddr": "163 Harwood Ave N",
+                "compContact": "Moghid Saad",
+                "compPhone": "416-237-7689",
+                "compEmail": "saad@comph.ca",
+                "invNum": ["Inv13","Inv14", "Inv15"]
+                },
+                {
+                "compId": "IBM24",
+                "compName": "IBM",
+                "compAddr": "3600 Steeles Ave E",
+                "compContact": "Andy Pak",
+                "compPhone": "905-316-5000",
+                "compEmail": "pak@ibm.ca",
+                "invNum": ["Inv16","Inv17", "Inv18"]
+                },
+                {
+                "compId": "TO632",
+                "compName": "Toshiba",
+                "compAddr": "75 Tiverton Court",
+                "compContact": "Edward Findlay",
+                "compPhone": "905-470-3500",
+                "compEmail": "findlay@toshiba.ca",
+                "invNum": ["Inv19","Inv20", "Inv21"]
+                },
+                {
+                "compId": "AC098",
+                "compName": "Acer",
+                "compAddr": "25 Peel Centre Dr #451",
+                "compContact": "Michelle Obama",
+                "compPhone": "1-800-565-2237",
+                "compEmail": "obama@acer.com",
+                "invNum": ["Inv22","Inv23", "Inv24"]
+                },
+                {
+                "compId": "HP137",
+                "compName": "HP",
+                "compAddr": "5150 Spectrum Way",
+                "compContact": "Kevin Johnson",
+                "compPhone": "1-800-334-5144",
+                "compEmail": "johnson@hp.ca",
+                "invNum": ["Inv25","Inv26", "Inv27"]
+                },
+                {
+                "compId": "GC457",
+                "compName": "Gateway Computers",
+                "compAddr": "34 shuter st",
+                "compContact": "Kobe Bryant",
+                "compPhone": "905-578-0678",
+                "compEmail": "kobe@gateway.ca",
+                "invNum": ["Inv28","Inv29", "Inv30"]
+                }
+            ]
+        }

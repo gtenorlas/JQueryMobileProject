@@ -1,0 +1,54 @@
+{
+            "Product": [
+            {
+                "prodId": "HD12",
+                "prodDesc": "Hard drive",
+                "prodAmt": 98.00
+            },
+              {
+                "prodId": "PS34",
+                "prodDesc": "Power supply",
+                "prodAmt": 220.00
+            },
+               {
+                "prodId": "CP11",
+                "prodDesc": "CPU",
+                "prodAmt": 70.00
+            },
+                {
+                "prodId": "FA99",
+                "prodDesc": "Fans",
+                "prodAmt": 120.45
+            },
+                {
+                "prodId": "GC27",
+                "prodDesc": "Graphic card",
+                "prodAmt": 149.99
+            },
+                {
+                "prodId": "SC13",
+                "prodDesc": "Sound card",
+                "prodAmt": 909.76
+            },
+                {
+                "prodId": "MB88",
+                "prodDesc": "Motherboard",
+                "prodAmt": 340.23
+            },
+                {
+                "prodId": "NIC1",
+                "prodDesc": "Network Interface card",
+                "prodAmt": 980.00
+            },
+                {
+                "prodId": "S309",
+                "prodDesc": "Screen",
+                "prodAmt": 1200.00
+            },
+                {
+                "prodId": "TT77",
+                "prodDesc": "Tower",
+                "prodAmt": 200.00
+            }
+            ]
+}  
